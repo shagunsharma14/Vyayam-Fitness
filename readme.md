@@ -1,6 +1,6 @@
 # Vyayam Fitness
 
-![Home Page](media\gallery\home.gif)
+![Home Page](media\gallery\preview.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
