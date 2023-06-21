@@ -1,6 +1,6 @@
 # Vyayam Fitness
 
-![Home Page](media\gallery\previews.gif)
+![Preview Page](media\gallery\previews.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -49,7 +49,7 @@ The project structure consists of the following directories and files:
 ## Screenshots
 
 Here's a glimpse of what you can expect from Vyayam Fitness:
-- ![Home Page](media\gallery\home.png)
+- ![Hom Page](media\gallery\home.png)
 
 - ![SignUp Page](media/gallery/signup.jpeg)
      The SignUp page allows users to create an account and join Vyayam Fitness.
@@ -87,4 +87,4 @@ Let's get fit and stay healthy together at Vyayam Fitness!
 
 ---
 
-Created with :heart: by [Shagun Sharma]
+Created with :heart: by Shagun Sharma
